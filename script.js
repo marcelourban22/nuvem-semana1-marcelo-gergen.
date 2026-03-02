@@ -64,6 +64,9 @@ show({ fonte: "jsonplaceholder.typicode.com", resposta: data });
 } catch (err) {
 show("Erro no POST: " + err.message);
 }
+
+
+  
 }
 
 btnGet.addEventListener("click", httpGetWeather);
