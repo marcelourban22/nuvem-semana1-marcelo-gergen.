@@ -12,3 +12,7 @@
 - Ativei GitHub Pages (main / root)
 ## Dificuldades
 - esqueci de dar f5 pra pegar o link do repositorio
+
+# nuvem-semana2-marcelo-gergen.
+## O que foi feito
+- Adição de consumo de API (GET e POST)
