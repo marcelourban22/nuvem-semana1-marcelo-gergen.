@@ -1,4 +1,4 @@
-]const out = document.getElementById("out");
+const out = document.getElementById("out");
 const btnGet = document.getElementById("btnGet");
 const btnPost = document.getElementById("btnPost");
 function show(obj) {
