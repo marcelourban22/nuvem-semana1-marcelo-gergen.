@@ -69,9 +69,6 @@ show("Erro no POST: " + err.message);
   
 }
 
-btnGet.addEventListener("click", httpGetWeather);
-btnPost.addEventListener("click", httpPostSimulado);
-
 const cityEl = document.getElementById("city");
 const btnCity = document.getElementById("btnCity");
 const cityOut = document.getElementById("cityOut");
@@ -124,8 +121,4 @@ showCity("Erro: " + err.message);
 
 // Preencher automaticamente ao abrir
 const last = localStorage.getItem("lastCity");
-if (last) cityEl.value = last;
-const last = localStorage.getItem("lastCity");
-
-// Se existir, coloca no campo de texto automaticamente
 if (last) cityEl.value = last;
