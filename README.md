@@ -54,6 +54,4 @@
 }
   }
 }
-# nuvem-semana2-marcelo-gergen.
-## O que foi feito
-- Integração das duas API's
+
